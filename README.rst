@@ -2,9 +2,7 @@
 Crypto 101
 ==========
 
-Crypto 101 is an introductory course on cryptography by lvh_. This is
-a repository for the project as a whole: stuff that doesn't go
-anywhere else, like roadmaps, marketing material, logos, et cetera.
+Crypto 101 is an introductory course on cryptography run by lvh. This is a repository for the course project. Materials in this project are for academic purposes only.
 
 If you are interested in the course or the book itself, you probably
 want the website_. This Github organization houses the `website
